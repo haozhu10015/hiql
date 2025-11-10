@@ -1,6 +1,6 @@
 # Hierarchical Inverse Q-learning
 
-Code accompanies the paper [Multi-intention Inverse Q-learning for Interpretable Behavior Representation](https://openreview.net/forum?id=hrKHkmLUFk).
+Code accompanies the paper [Multi-intention Inverse Q-learning for Interpretable Behavior Representation](https://haozhu10015.github.io/papers/miiql.html).
 
 ## Abstract
 
